@@ -5,7 +5,7 @@
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://love2d.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@11.7.0/icons/love2d.svg" alt="love2d" width="40" height="40"/> </a>
+  <a href="https://github.com/love2d/love" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/love2d/love/11.5/misc/logos/inside.svg" alt="love2d" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> 
