@@ -1,12 +1,5 @@
 # Hello 👋
 
-### A passionate game dev. 
-
-- 🔭 I'm currently working on **LÖVE2D Indie Game Project**
-
-- 🌱 I'm currently learning **C++**
-
-- 👯 I'm looking to collaborate on **OSP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
