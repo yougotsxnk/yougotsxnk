@@ -4,7 +4,7 @@
 <h3 align="left">What I use:</h3>
 <p align="left"> 
   <a href="https://www.apple.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Apple_Computer_Logo_rainbow.svg" alt="apple" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Apple_logo_white.svg" alt="apple" width="40" height="40"/> 
 </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> 
